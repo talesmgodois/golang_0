@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/src/math"
+	"awesomeProject/talesmgodois/golang_0/src/math"
 	"fmt"
 )
 
