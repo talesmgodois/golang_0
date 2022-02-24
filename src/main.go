@@ -1,8 +1,8 @@
 package main
 
 import (
-	"awesomeProject/talesmgodois/golang_0/src/math"
 	"fmt"
+	"golang_0/src/math"
 )
 
 func main() {
